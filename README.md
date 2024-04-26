@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on React, Node, Typescript and Mongo DB projects
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning MongoDB, ASP.NET and PYthon
